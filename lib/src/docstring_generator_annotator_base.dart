@@ -2,7 +2,7 @@
 /// classes, enums, and functions
 class GenerateDocstring {
   final String description;
-  final String? codeExample;
+  final List<String>? codeExample;
   final String annotatorName;
 
   const GenerateDocstring({
