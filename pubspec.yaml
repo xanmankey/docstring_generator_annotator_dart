@@ -1,6 +1,6 @@
 name: docstring_generator_annotator
 description: A simple dart annotator that can be used for generating docstrings for dart code. Inteded for use as a dependency of the 'docstring_generator' vscode extension.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/xanmankey/docstring_generator_annotator_dart.git
 
 environment:
